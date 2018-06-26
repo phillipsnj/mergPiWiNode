@@ -1,0 +1,20 @@
+{
+  "name": "mergpiwinode",
+  "version": "1.0.1",
+  "description": "Demo application using the MERG canPiWi board",
+  "main": "testMergPiWiNode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "MERG",
+    "cbus"
+  ],
+  "author": "Nigel Phillips",
+  "license": "MIT",
+  "dependencies": {
+    "jsonfile": "^4.0.0",
+    "mergethnode": "0.0.1",
+    "onoff": "^3.1.0"
+  }
+}

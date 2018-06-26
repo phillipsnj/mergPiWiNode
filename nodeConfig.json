@@ -1,0 +1,21 @@
+{
+  "nodeId": 120,
+  "canId": 75,
+  "priority1": 2,
+  "priority2": 3,
+  "manufId": 165,
+  "moduleId": 71,
+  "name": "PICAN",
+  "minorVersion": "A",
+  "numEvents": 255,
+  "numEventVariables": 3,
+  "numSupportedNodeVariables": 2,
+  "majorVersion": 2,
+  "consumer": true,
+  "producer": true,
+  "flim": true,
+  "supportsBootloader": false,
+  "interface": 2,
+  "variables": [],
+  "events": {}
+}
